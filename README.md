@@ -1,4 +1,4 @@
-Blame
+
 🚀 Mintlify Documentation Website Clone (Assignment Project
 This project is a desktop-first recreation of the official Mintlify documentation website, developed using only HTML and CSS.
 
@@ -63,4 +63,4 @@ Documentation Website - Mintlify/
 ├── index.html
 ├── style.css
 ├── assets
-└── README.m
+└── README.md
